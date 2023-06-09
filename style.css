@@ -341,7 +341,7 @@ a{
 
 
 /*! Responsive Start  */
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 450px) {
     .menu-container{
         display: none;
     }
